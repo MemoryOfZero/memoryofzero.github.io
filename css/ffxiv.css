@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    background-color: lightgray; 
+    background-image: linear-gradient( rgba(0,0,0,0.5), rgba(0, 0, 0, 0.5) ), url("../images/backgroundffxiv.jpg") ;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
